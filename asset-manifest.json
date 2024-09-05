@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChooseYourPath/static/css/main.7e86d022.css",
+    "main.js": "/ChooseYourPath/static/js/main.c9084e08.js",
+    "static/js/453.cb53230a.chunk.js": "/ChooseYourPath/static/js/453.cb53230a.chunk.js",
+    "static/media/BlankHotPocket.png": "/ChooseYourPath/static/media/BlankHotPocket.dcd4cc3ee54df8be3f78.png",
+    "index.html": "/ChooseYourPath/index.html",
+    "main.7e86d022.css.map": "/ChooseYourPath/static/css/main.7e86d022.css.map",
+    "main.c9084e08.js.map": "/ChooseYourPath/static/js/main.c9084e08.js.map",
+    "453.cb53230a.chunk.js.map": "/ChooseYourPath/static/js/453.cb53230a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e86d022.css",
+    "static/js/main.c9084e08.js"
+  ]
+}
