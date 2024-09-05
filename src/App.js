@@ -73,7 +73,7 @@ function App(){
             )}
 
             {/* Restart button to reset the route anytime */}
-            {currentPath != 'start' && currentPath !== 'end' && (
+            {currentPath != 'start' && currentPath != 'end' && (
                 <button onClick={resetPath} className="restart-button">
                     Restart Routes
                 </button>
